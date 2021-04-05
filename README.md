@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning web development at [Hack Your Future](https://hackyourfuture.be/).
 
 
+
+
 - ⚡ Fun fact: i like to draw and i am a bad dancer
 #### How to reach me: 
 
@@ -43,4 +45,6 @@
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatsianaRud&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+here shoud be a link to github .io
 
