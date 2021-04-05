@@ -1,5 +1,6 @@
-### Hi there,im Tatsiana 👋
+
 ![Alt Text](https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif)
+### Hi there,im Tatsiana 👋 background-image:
 
 
 - 🌱 I’m currently learning web development at [Hack Your Future](https://hackyourfuture.be/).
